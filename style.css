@@ -1,7 +1,7 @@
 body{
   font-size: 1em;
   font-family: 'Poppins';
-  background-color: white;
+  background-color: yellow;
   
   
 }
@@ -14,13 +14,13 @@ nav ul li{
 }
 
 h1{
-  background-color: grey;
+  background-color: lime;
   font-size: 4em;
   color:red;
   width: 22%;
 }
 h2{
-  background-color: grey;
+  background-color: lime;
   color:indigo;
   width:30%;
   margin-right: 5%;
@@ -45,12 +45,33 @@ a:hover{
   margin: 0 auto;
     width: 100%;
 }
+#bit1{
+  margin-left:2%;
+  background-color: lime;
+  width: 30.7%;
+  float: left;
+  max-width: 30.7%
+}
+#bit2{
+  margin-left:34.7%;
+  background-color: lime;
+  width:30.7%;
+  max-width: 30.7%
 
-.bit1{
-  font-color:white;
+}
+#bit3{
+  margin-left:67.4%;
+  background-color: lime;
+  width:30.6%;
+  max-width:30.6%
+}
+#texter{
+  width:80%;
+  float:left;
+  background-color:black;
   margin:10%;
-  background-color: grey;
-  width: 20%;
+  margin-top:0%;
+  display:inline;
 }
 
 
